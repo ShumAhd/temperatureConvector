@@ -15,3 +15,11 @@ Main https://github.com/ShumAhd/temperatureConvector/blob/main/Main.java
 Коневектор https://github.com/ShumAhd/temperatureConvector/tree/main/converter
 Dockerfile https://github.com/ShumAhd/temperatureConvector/blob/main/Dockerfile
 
+Собрал Docker с помощью команды 
+```
+docker build -t myapp .
+```
+Запустил контейнер
+```
+docker run -it myapp.
+```
