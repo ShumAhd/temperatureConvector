@@ -9,3 +9,9 @@
 
 # temperatureConvector
 Конвертация температуры из градусов Цельсия в градусы Фаренгейта и наоборот
+
+Создан код:
+Main https://github.com/ShumAhd/temperatureConvector/blob/main/Main.java
+Коневектор https://github.com/ShumAhd/temperatureConvector/tree/main/converter
+Dockerfile https://github.com/ShumAhd/temperatureConvector/blob/main/Dockerfile
+
