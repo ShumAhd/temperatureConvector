@@ -21,5 +21,5 @@ docker build -t myapp .
 ```
 Запустил контейнер
 ```
-docker run -it myapp.
+docker run -it myapp
 ```
